@@ -19,12 +19,12 @@ Have you ever logged into Discord only to find your server list cluttered with d
 <div align="center">
 
 ### Plugin Interface
-<img src="https://cdn.discordapp.com/attachments/1558016782428807282/1558016800497598494/image.png?ex=6ac9e7b7&is=6ac89637&hm=3ca164c4a47c127f5b5afbcd98cda1f682a0275626e1e61a5957cbd635ee75bf&" alt="Mass Server Leaver UI" width="700" />
+<img src="https://cdn.discordapp.com/attachments/1558016782428807282/1558016800497598494/image.png?ex=6ac9e7b7&is=6ac89637&hm=3ca164c4a47c127f5b5afbcd98cda1f682a0275626e1e61a5957cbd635ee75bf&" alt="Selected Channels Leaver UI" width="700" />
 
 <br/><br/>
 
-### Server Management
-<img src="https://cdn.discordapp.com/attachments/1558016782428807282/1558016874661421087/image.png?ex=6ac9e7c9&is=6ac89649&hm=c805d7060adf16e018bf4fc1ba139fc72946ef986ac6cc2f753f6143bad6634f&" alt="Server Selection" width="700" />
+### Log Panel
+<img src="https://cdn.discordapp.com/attachments/1558016782428807282/1558017217512083456/image.png?ex=6ac9e81b&is=6ac8969b&hm=9a0c8e7960b2cc695e10af1e51fa2afd7b55973fd86e6c745679528b51bda1f4&" alt="Log Panel" width="700" />
 
 </div>
 
@@ -45,6 +45,9 @@ Have you ever logged into Discord only to find your server list cluttered with d
    * **Windows:** `%appdata%\BetterDiscord\plugins`
    * **Mac/Linux:** Check your BetterDiscord settings panel for the plugin directory.
 3. Enable the plugin from your Discord settings under **BetterDiscord -> Plugins**.
+4. Next just hold "ctrl" key and click on the servers you want.
+5. Click Process Selected.
+6. Then done.
 
 ---
 
